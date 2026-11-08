@@ -6,5 +6,5 @@ My current programming stack focuses heavily on C (and C++ 23) and Python. I am 
 
 # Websites:
 
-alnlin.com
-talkbinary.com
+<a href="https://alnlin.com">alnlin.com</a><br>
+<a href="https://talkbinary.com">talkbinary.com</a>
