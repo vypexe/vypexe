@@ -8,3 +8,9 @@ My current programming stack focuses heavily on C (and C++ 23) and Python. I am 
 
 <a href="https://alnlin.com">alnlin.com</a><br>
 <a href="https://talkbinary.com">talkbinary.com</a>
+
+# Inspirations:
+
+<a href="https://www.youtube.com/channel/UCpXwMqnXfJzazKS5fJ8nrVw">Shiey</a>
+
+
